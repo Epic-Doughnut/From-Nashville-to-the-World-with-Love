@@ -1,6 +1,6 @@
 # From Nashville to the World, with Love
 
-Video game for the Nashville Giving Machines 2021
+Video game for the Nashville Giving Machines 2021 by the Church of Jesus Christ of Latter-Day Saints
 
 ***This repository contains the WebGL build of the game***
 
