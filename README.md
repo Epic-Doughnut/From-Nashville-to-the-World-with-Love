@@ -1,5 +1,6 @@
-# Love Around the World
-Love around the world game for the Nashville Giving Machines
+# From Nashville to the World, with Love
+
+Video game for the Nashville Giving Machines 2021
 
 ***This repository contains the WebGL build of the game***
 
@@ -7,8 +8,7 @@ This game was made with Unity.
 
 ## How to play
 
-Play the game from this repo at
-[https://epic-doughnut.github.io/Love-Around-the-World/](https://epic-doughnut.github.io/Love-Around-the-World/)
+[Play the game from this repo](https://epic-doughnut.github.io/From-Nashville-to-the-World-with-Love/)
 
 Play on the official website at
 [TBD]
