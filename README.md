@@ -1,4 +1,4 @@
-# epic-doughnut.github.io
+# Love Around the World
 Love around the world game for the Nashville Giving Machines
 
 Play the game from this repo at
