@@ -19,3 +19,5 @@ Left-Click to place a heart
 > If you "love" someone, they'll recipricate that love with others, and you'll get two more hearts
 
 > Try to fill the whole world with love!
+
+Your total number of hearts is displayed along the bottom. Try not to run out!
